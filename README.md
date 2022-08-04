@@ -30,7 +30,7 @@ details)
    ```
 * Clone the repo.
    ```sh
-   cd liquidity_microservice_producer
+   cd apps/endpoint
    ```
 * Install dependencies.
    ```bash
@@ -40,9 +40,9 @@ details)
 * Running the app
 
    ```bash
-   $ npm run start
+   $ npm run start:dev endpoint
    ```
-* Same installation steps will be done for ```liquidity_microservice_consumer```
+* Same installation steps will be done for ```mail-sender```
 
 # Client request
 
