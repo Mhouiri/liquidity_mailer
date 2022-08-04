@@ -26,7 +26,7 @@ details)
 # Installation
 * Clone the repo.
    ```sh
-   git clone https://github.com/Mhouiri/liquidity_assignment
+   git clone https://github.com/Mhouiri/liquidity_mailer
    ```
 * Clone the repo.
    ```sh
