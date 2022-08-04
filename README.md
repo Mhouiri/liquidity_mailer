@@ -28,7 +28,7 @@ details)
    ```sh
    git clone https://github.com/Mhouiri/liquidity_mailer
    ```
-* Clone the repo.
+* Access apps.
    ```sh
    cd apps/endpoint
    ```
