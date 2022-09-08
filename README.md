@@ -1,5 +1,4 @@
-# liquidity_assignment
-
+# NestJs RQ Mailer
 A microservice implementation using Nest JS and RabbitMQ , this implementation task contains 3 services:
 - API Gateway : Creating an app from where we will be exposing a route for sending mail requests via clients:
 - RabbitMQ : creating a channel or intermediar for sending mail events to the consumer
